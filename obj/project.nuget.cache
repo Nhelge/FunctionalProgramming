@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XT+423xnIdI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nanna\\skole\\funktionel\\Assignments\\Assignments.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nanna\\.nuget\\packages\\fsharp.core\\8.0.403\\fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}

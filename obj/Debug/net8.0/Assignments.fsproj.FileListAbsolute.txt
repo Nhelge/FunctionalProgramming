@@ -1,0 +1,13 @@
+C:\Users\nanna\skole\funktionel\Assignments\bin\Debug\net8.0\Assignments.deps.json
+C:\Users\nanna\skole\funktionel\Assignments\bin\Debug\net8.0\Assignments.dll
+C:\Users\nanna\skole\funktionel\Assignments\bin\Debug\net8.0\Assignments.pdb
+C:\Users\nanna\skole\funktionel\Assignments\bin\Debug\net8.0\Assignments.xml
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.fsproj.AssemblyReference.cache
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfo.fs
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.fsproj.CoreCompileInputs.cache
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.dll
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\refint\Assignments.dll
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.xml
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\Assignments.pdb
+C:\Users\nanna\skole\funktionel\Assignments\obj\Debug\net8.0\ref\Assignments.dll
