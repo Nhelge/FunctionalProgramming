@@ -1,0 +1,14 @@
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignments.deps.json
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignments.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignments.pdb
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignments.xml
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.fsproj.AssemblyReference.cache
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.AssemblyInfo.fs
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.fsproj.CoreCompileInputs.cache
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.sourcelink.json
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\refint\Assignments.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.xml
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.pdb
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\ref\Assignments.dll

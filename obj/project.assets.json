@@ -1,8 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "FSharp.Core/8.0.403": {
+    "net9.0": {
+      "FSharp.Core/9.0.303": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/FSharp.Core.dll": {
@@ -59,15 +59,15 @@
     }
   },
   "libraries": {
-    "FSharp.Core/8.0.403": {
-      "sha512": "ldNIn4IksrJL/X3rF4R/y9pa3RmwkcGYQ3xFMdbJj8dJ9Q49J735m6sMy3MbCK9gj3YoCsxlyFeExCiNDy3gHQ==",
+    "FSharp.Core/9.0.303": {
+      "sha512": "6JlV8aD8qQvcmfoe/PMOxCHXc0uX4lR23u0fAyQtnVQxYULLoTZgwgZHSnRcuUHOvS3wULFWcwdnP1iwslH60g==",
       "type": "package",
-      "path": "fsharp.core/8.0.403",
+      "path": "fsharp.core/9.0.303",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "fsharp.core.8.0.403.nupkg.sha512",
+        "fsharp.core.9.0.303.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/netstandard2.0/FSharp.Core.dll",
         "lib/netstandard2.0/FSharp.Core.xml",
@@ -103,35 +103,35 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "FSharp.Core >= 8.0.403"
+    "net9.0": [
+      "FSharp.Core >= 9.0.303"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nanna\\.nuget\\packages\\": {}
+    "C:\\Users\\Nanna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nanna\\skole\\funktionel\\Assignments\\Assignments.fsproj",
+      "projectUniqueName": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignments.fsproj",
       "projectName": "Assignments",
-      "projectPath": "C:\\Users\\nanna\\skole\\funktionel\\Assignments\\Assignments.fsproj",
-      "packagesPath": "C:\\Users\\nanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nanna\\skole\\funktionel\\Assignments\\obj\\",
+      "projectPath": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignments.fsproj",
+      "packagesPath": "C:\\Users\\Nanna\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nanna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nanna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\8.0.416\\FSharp\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\9.0.311\\FSharp\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -139,16 +139,17 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "dependencies": {
           "FSharp.Core": {
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[8.0.403, )",
+            "version": "[9.0.303, )",
             "generatePathProperty": true
           }
         },
@@ -168,7 +169,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
