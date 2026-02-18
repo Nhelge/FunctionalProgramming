@@ -12,3 +12,7 @@ C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\refint\As
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.xml
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignments.pdb
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\ref\Assignments.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment4.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment4.pdb
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment4.xml
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignme.D148DD5A.Up2Date

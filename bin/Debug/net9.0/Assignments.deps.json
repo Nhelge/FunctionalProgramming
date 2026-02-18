@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "Assignments/1.0.0": {
         "dependencies": {
+          "Assignment4": "1.0.0",
           "FSharp.Core": "9.0.303"
         },
         "runtime": {
@@ -62,6 +63,17 @@
             "locale": "zh-Hant"
           }
         }
+      },
+      "Assignment4/1.0.0": {
+        "dependencies": {
+          "FSharp.Core": "9.0.303"
+        },
+        "runtime": {
+          "Assignment4.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -77,6 +89,11 @@
       "sha512": "sha512-6JlV8aD8qQvcmfoe/PMOxCHXc0uX4lR23u0fAyQtnVQxYULLoTZgwgZHSnRcuUHOvS3wULFWcwdnP1iwslH60g==",
       "path": "fsharp.core/9.0.303",
       "hashPath": "fsharp.core.9.0.303.nupkg.sha512"
+    },
+    "Assignment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

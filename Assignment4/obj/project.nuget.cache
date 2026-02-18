@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hA58zPO8w8Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignment4\\Assignment4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nanna\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512"
+  ],
+  "logs": []
+}
