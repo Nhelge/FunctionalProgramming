@@ -16,3 +16,8 @@ C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignmen
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment4.pdb
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment4.xml
 C:\Users\Nanna\skole\funktionel\FunctionalProgramming\obj\Debug\net9.0\Assignme.D148DD5A.Up2Date
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment5.deps.json
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment5.runtimeconfig.json
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment5.exe
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment5.dll
+C:\Users\Nanna\skole\funktionel\FunctionalProgramming\bin\Debug\net9.0\Assignment5.pdb

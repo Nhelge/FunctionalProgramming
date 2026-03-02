@@ -68,6 +68,19 @@
         "runtime": {
           "bin/placeholder/Assignment4.dll": {}
         }
+      },
+      "Assignment5/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "FSharp.Core": "9.0.303"
+        },
+        "compile": {
+          "bin/placeholder/Assignment5.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assignment5.dll": {}
+        }
       }
     }
   },
@@ -118,11 +131,17 @@
       "type": "project",
       "path": "Assignment4/Assignment4.fsproj",
       "msbuildProject": "Assignment4/Assignment4.fsproj"
+    },
+    "Assignment5/1.0.0": {
+      "type": "project",
+      "path": "Assignment5/Assignment5/Assignment5.fsproj",
+      "msbuildProject": "Assignment5/Assignment5/Assignment5.fsproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Assignment4 >= 1.0.0",
+      "Assignment5 >= 1.0.0",
       "FSharp.Core >= 9.0.303"
     ]
   },
@@ -154,6 +173,9 @@
           "projectReferences": {
             "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignment4\\Assignment4.fsproj": {
               "projectPath": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignment4\\Assignment4.fsproj"
+            },
+            "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignment5\\Assignment5\\Assignment5.fsproj": {
+              "projectPath": "C:\\Users\\Nanna\\skole\\funktionel\\FunctionalProgramming\\Assignment5\\Assignment5\\Assignment5.fsproj"
             }
           }
         }

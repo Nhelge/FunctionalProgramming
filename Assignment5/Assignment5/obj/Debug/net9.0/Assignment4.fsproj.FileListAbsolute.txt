@@ -1,0 +1,58 @@
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/Assignment4
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/Assignment4.deps.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/Assignment4.runtimeconfig.json
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/Assignment4.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/Assignment4.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/FSharp.Core.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/cs/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/de/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/es/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/fr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/it/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/ja/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/ko/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/pl/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/pt-BR/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/ru/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/tr/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/zh-Hans/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/bin/Debug/net9.0/zh-Hant/FSharp.Core.resources.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.fsproj.AssemblyReference.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.AssemblyInfoInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.AssemblyInfo.fs
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.fsproj.CoreCompileInputs.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignme.7D1959D7.Up2Date
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/refint/Assignment4.dll
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.pdb
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/Assignment4.genruntimeconfig.cache
+/Users/jebe/Library/CloudStorage/OneDrive-ITU/teaching/courses/FP2025/Lecture 5/Assignment4/Assignment4/obj/Debug/net9.0/ref/Assignment4.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/Assignment4
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/Assignment4.deps.json
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/Assignment4.runtimeconfig.json
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/Assignment4.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/Assignment4.pdb
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/FSharp.Core.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/cs/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/de/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/es/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/fr/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/it/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/ja/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/ko/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/pl/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/pt-BR/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/ru/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/tr/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/zh-Hans/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/bin/Debug/net9.0/zh-Hant/FSharp.Core.resources.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.fsproj.AssemblyReference.cache
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.AssemblyInfoInputs.cache
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.AssemblyInfo.fs
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.fsproj.CoreCompileInputs.cache
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignme.7D1959D7.Up2Date
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/refint/Assignment4.dll
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.pdb
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/Assignment4.genruntimeconfig.cache
+/Users/jebe/Downloads/Assignment4-9/Assignment4/obj/Debug/net9.0/ref/Assignment4.dll

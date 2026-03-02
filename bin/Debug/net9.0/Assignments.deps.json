@@ -9,6 +9,7 @@
       "Assignments/1.0.0": {
         "dependencies": {
           "Assignment4": "1.0.0",
+          "Assignment5": "1.0.0",
           "FSharp.Core": "9.0.303"
         },
         "runtime": {
@@ -74,6 +75,17 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Assignment5/1.0.0": {
+        "dependencies": {
+          "FSharp.Core": "9.0.303"
+        },
+        "runtime": {
+          "Assignment5.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -91,6 +103,11 @@
       "hashPath": "fsharp.core.9.0.303.nupkg.sha512"
     },
     "Assignment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assignment5/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
