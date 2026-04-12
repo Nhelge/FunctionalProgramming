@@ -7,11 +7,11 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("Assignment7")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("Assignment8")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
 [<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e80786c6c0c8730aaeb61519be18b47181f5961")>]
-[<assembly: System.Reflection.AssemblyProductAttribute("Assignment7")>]
-[<assembly: System.Reflection.AssemblyTitleAttribute("Assignment7")>]
+[<assembly: System.Reflection.AssemblyProductAttribute("Assignment8")>]
+[<assembly: System.Reflection.AssemblyTitleAttribute("Assignment8")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
 do()

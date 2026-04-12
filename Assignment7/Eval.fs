@@ -135,4 +135,4 @@ module Interpreter.Eval
                     | part :: ps, v :: vs -> aux ps vs (fun r -> c (part + string v + r))
                     | _ -> None
                 
-                aux splitResult values (fun r -> Some r)    
+                aux splitResult values (fun r -> Some r)
