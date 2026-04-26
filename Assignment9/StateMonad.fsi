@@ -1,17 +1,15 @@
-
 module Interpreter.StateMonad
 
-
-    open Language
     open State
+    open Language
     
     // Green and Yellow exercises (remove up until Red exercises if doing Red, but start with Green or Yellow regardless)
 
     type 'a stateMonad
     
-    val ret  : 'a -> 'a stateMonad   
+    val ret  : 'a -> 'a stateMonad    
     
-    val (>>=)  : 'a stateMonad -> ('a -> 'b stateMonad) -> 'b stateMonad
+    val (>>=) : 'a stateMonad -> ('a -> 'b stateMonad) -> 'b stateMonad
     val (>>>=) : 'a stateMonad -> 'b stateMonad -> 'b stateMonad
     
     // Green
@@ -62,8 +60,6 @@ module Interpreter.StateMonad
 
 
  *)
- 
- 
     
     
     

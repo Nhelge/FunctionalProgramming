@@ -3,6 +3,7 @@ module Interpreter.Eval
     open Result
     open StateMonad
     open Language
+
     let rec readInt() = 
         let readFromConsole = System.Console.ReadLine().Trim()
         let tryParseInt (str: string) = System.Int32.TryParse str
@@ -13,6 +14,7 @@ module Interpreter.Eval
         | false, result -> 
             printfn "%d is not an integer" result 
             readInt()
+    
     let rec aexprEval a = 
         match a with
         | Num x -> ret x

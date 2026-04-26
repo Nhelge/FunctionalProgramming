@@ -1,17 +1,14 @@
-
 module Interpreter.StateMonad
 
-
     open Language
-    open State
     
     // Green and Yellow exercises (remove up until Red exercises if doing Red, but start with Green or Yellow regardless)
 
     type 'a stateMonad
     
-    val ret  : 'a -> 'a stateMonad   
+    val ret  : 'a -> 'a stateMonad    
     
-    val (>>=)  : 'a stateMonad -> ('a -> 'b stateMonad) -> 'b stateMonad
+    val (>>=) : 'a stateMonad -> ('a -> 'b stateMonad) -> 'b stateMonad
     val (>>>=) : 'a stateMonad -> 'b stateMonad -> 'b stateMonad
     
     // Green
@@ -24,21 +21,21 @@ module Interpreter.StateMonad
     val (>>>=) : 'a stateMonad -> 'b stateMonad -> 'b stateMonad
     
     // Fix these signatures
-    val random : stateMonad<int>
+    val random : 'a -> 'b
 
-    val declare : string -> stateMonad<unit>
-    val getVar : string -> stateMonad<int>
-    val setVar : string -> int -> stateMonad<unit>
+    val declare : 'a -> 'b
+    val getVar : 'a -> 'b
+    val setVar : 'a -> 'b
 
-    val alloc : string -> int -> stateMonad<unit>
-    val free : int -> int -> stateMonad<unit>
-    val getMem : int -> stateMonad<int>
-    val setMem : int -> int -> stateMonad<unit>
+    val alloc : 'a -> 'b
+    val free : 'a -> 'b
+    val getMem : 'a -> 'b
+    val setMem : 'a -> 'b
     
     val push : 'a -> 'b
     val pop : 'a -> 'b
     
-    val evalState : state -> 'a stateMonad -> 'a option
+    val evalState : 'a -> 'b
 
     
     // Red Exercises
@@ -62,8 +59,6 @@ module Interpreter.StateMonad
 
 
  *)
- 
- 
     
     
     
